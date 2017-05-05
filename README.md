@@ -7,3 +7,8 @@ Threat Detection System using Hybrid (Machine Learning + Lexical Analysis) learn
 • Used Lexicons as input in a machine learning approach for training to get better accuracy.
 
 • Compared accuracy with different hidden layers.
+
+• Neural Network with back propogation using one hidden layer.
+
+• Activation function: Unipolar Sigmoidal Function.
+
